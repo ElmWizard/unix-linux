@@ -21,6 +21,7 @@
 	-This won't delete the file but append at the end
 
 ### Input redirection
+
 1) `wc -l < users`
 
 ### Here document
