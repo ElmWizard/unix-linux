@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 # test-integer2: evaluate the value of an integer

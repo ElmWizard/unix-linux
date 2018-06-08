@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 # simple_counter:  demo of C style for command

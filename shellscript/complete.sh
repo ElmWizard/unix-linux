@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 # sys_info_page: program to ouput a system information page

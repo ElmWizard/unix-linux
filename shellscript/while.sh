@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 # while-count: display a series of numbers
