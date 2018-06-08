@@ -1,3 +1,4 @@
+
 ### Find
 - find ~
 - find ~ -type d : find all the folders under your home
